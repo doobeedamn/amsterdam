@@ -3,7 +3,7 @@ The project is part of Udacity FEND Program. This app allows you to search for i
 
 ## How To Run App
 
-* Cclone or download this repo to your local machine
+* Clone or download this repo to your local machine
 * Run npm install in your terminal
 * Run npm start and the app will run locally on port: 3000
 
