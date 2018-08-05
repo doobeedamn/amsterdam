@@ -12,4 +12,4 @@ The project is part of Udacity FEND Program. This app allows you to search for i
 - [StackOverflow](https://stackoverflow.com/)
 - [Foursquare ](https://developer.foursquare.com)
 
-### project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+### Project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
