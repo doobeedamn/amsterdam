@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Van Gogh Museum",
+    "type": "Museum",
+    "latitude": 52.358495,
+    "longitude": 4.881258
+  },
+  {
+    "name": "I Amsterdam Sign",
+    "type": "Selfie Point",
+    "latitude": 52.359118,
+    "longitude": 4.884059
+  },
+  {
+    "name": "Amsterdam Rijksmuseum",
+    "type": "Museum",
+    "latitude": 52.359786,
+    "longitude": 4.884756
+  },
+  {
+    "name": "Red Lantern District",
+    "type": "District",
+    "latitude": 52.373438,
+    "longitude": 4.899157
+  },
+  {
+    "name": "Rembrandt House Museum",
+    "type": "Museum",
+    "latitude": 52.369356,
+    "longitude": 4.901267
+  },
+  {
+    "name": "Bloemenmarkt",
+    "type": "Flower Market",
+    "latitude": 52.366851,
+    "longitude": 4.891416
+  }
+]
